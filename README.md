@@ -1,1 +1,2 @@
-# Codecademy-Mixed-message-project
+# Astro Reading
+# A Codecademy Mixed Messages Project
